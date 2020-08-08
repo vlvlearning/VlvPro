@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngProj1"
+    }
+  },
+  "defaultProject": "AngProj1",
+  "cli": {
+    "analytics": "f56b018d-9aa5-4a72-9669-892890f00982"
+  }
 }
